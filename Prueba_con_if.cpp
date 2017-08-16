@@ -46,7 +46,7 @@ int main () {
       Answer = Value1 - Value2;
       cout << "Result = "  <<Answer <<endl;
 
-      else {
+    } else {
 
         if (Operation == "*") {
 

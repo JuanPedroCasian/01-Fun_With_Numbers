@@ -56,4 +56,6 @@ int main () {
                                       */
   cout<<"Remainder of Divition = "; cout <<Answer <<endl;
 
+  return 0;
+
 }
